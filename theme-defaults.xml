@@ -1,0 +1,108 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="menu">
+		<menuSwitch name="menuswitch">
+		</menuSwitch>
+		<menuSize name="menuSize">
+			<height>0.7</height>
+		</menuSize>
+		<menuText name="menufooter">
+			<fontPath>./_inc/fonts/Early GameBoy.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<color>306230</color>
+		</menuText>
+		<menuText name="menutext">
+			<fontPath>./_inc/fonts/Early GameBoy.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<color>306230</color>
+			<separatorColor>306230</separatorColor>
+			<selectorColor>306230</selectorColor>
+			<selectedColor>306230</selectedColor>
+		</menuText>
+		<menuTextSmall name="menutextsmall">
+			<fontPath>./_inc/fonts/Early GameBoy.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<color>306230</color>
+		</menuTextSmall>
+		<menuText name="menutitle">
+			<fontPath>./_inc/fonts/Early GameBoy.ttf</fontPath>
+			<fontSize>14</fontSize>
+			<color>306230</color>
+		</menuText>
+		<menuBackground name="menubg">
+			<color>9bbc0f</color>
+		</menuBackground>
+		<helpsystem name="help">
+		</helpsystem>
+	</view>
+	<feature supported="carousel">
+		<view name="system">
+			<carousel name="systemcarousel">
+				<defaultTransition>instant</defaultTransition>
+				<pos>1 1</pos>
+				<size>0.491 0.526</size>
+				<color>00000000</color>
+				<maxLogoCount>1</maxLogoCount>
+				<logoAlignment>center</logoAlignment>
+				<logoScale>1.1</logoScale>
+				<zIndex>0</zIndex>
+			</carousel>
+		</view>
+	</feature>
+
+	<view name="system">
+		<image name="console" extra="true">
+			<path>./_inc/img/$system.png</path>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<zIndex>10</zIndex>
+		</image>
+		<image name="logo">
+			<path>./_inc/logo/$system.png</path>
+		</image>
+	</view>
+
+	<view name="menu, system, basic, detailed">
+		<helpsystem name="help">
+			<fontPath>./_inc/fonts/Early GameBoy.ttf</fontPath>
+			<textColor>306230</textColor>
+			<iconColor>306230</iconColor>
+			<fontSize>7</fontSize>
+			<pos>0.02 0.9</pos>
+		</helpsystem>
+		<image name="overlay" extra="true">
+			<path>./_inc/overlay.png</path>
+			<origin>0 0</origin>
+			<size>1 1</size>
+			<zIndex>99</zIndex>
+		</image>
+	</view>
+	<view name="detailed, basic">
+		<image name="logo">
+			<path>./_inc/logo/$system.png</path>
+			<origin>0 0</origin>
+			<pos>0.35 0.05</pos>
+			<size>0.30 0.11</size>
+		</image>
+		<box name="background" extra="true" pos="0 0" size="1 1" color="9bbc0f"/>
+		<textlist name="gamelist">
+			<pos>0.25 0.3</pos>
+			<size>0.5 0.51</size>
+			<selectorColor>66903e</selectorColor>
+			<selectedColor>306230</selectedColor>
+			<primaryColor>306230</primaryColor>
+			<fontPath>./_inc/fonts/Early GameBoy.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<forceUppercase>1</forceUppercase>
+			<lineSpacing>2</lineSpacing>
+			<alignment>left</alignment>
+		</textlist>
+
+		<video name="md_video" disabled="true"/>
+		<rating name="md_rating" disabled="true"/>
+		<datetime name="md_releasedate" disabled="true"/>
+
+	</view>
+
+</theme>
