@@ -2,6 +2,7 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="menu">
+		<menuButton name="menubutton" filledPath="./_inc/button.png" />
 		<menuSwitch name="menuswitch">
 		</menuSwitch>
 		<menuSize name="menuSize">
@@ -90,14 +91,11 @@
 		<image name="logo">
 			<path>./_inc/logo/$system.png</path>
 			<origin>0 0</origin>
-			<pos>0.3 0.05</pos>
+			<pos>0.3 0.03</pos>
 			<maxSize>0.4 0.3</maxSize>
 		</image>
-		<box name="background" extra="true" pos="0 0" size="1 1" color="9bbc0f"/>
 		<textlist name="gamelist">
-			<pos>0.25 0.3</pos>
-			<size>0.5 0.51</size>
-			<selectorColor>66903e</selectorColor>
+			<selectorColor>3062304D</selectorColor>
 			<selectedColor>306230</selectedColor>
 			<primaryColor>306230</primaryColor>
 			<fontPath>./_inc/fonts/Early GameBoy.ttf</fontPath>
@@ -106,10 +104,7 @@
 			<lineSpacing>2</lineSpacing>
 			<alignment>left</alignment>
 		</textlist>
-
 		<video name="md_video" disabled="true"/>
-		<rating name="md_rating" disabled="true"/>
-		<datetime name="md_releasedate" disabled="true"/>
 
 	</view>
 

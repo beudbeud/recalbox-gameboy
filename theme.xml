@@ -1,4 +1,5 @@
 <theme name="GameBoy" version="9.2">
 	<formatVersion>4</formatVersion>
 	<include>./theme-defaults.xml</include>
+	<include>./data/config.xml</include>
 </theme>

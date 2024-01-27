@@ -1,0 +1,43 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="detailed, basic">
+		<textlist name="gamelist">
+			<pos>0.515 0.229</pos>
+			<size>0.47 0.62</size>
+		</textlist>
+
+		<image name="md_image">
+			<origin>0.5 0</origin>
+			<pos>0.2495 0.25</pos>
+			<size>0.43 0.425</size>
+			<zIndex>2</zIndex>
+		</image>
+		<image name="background" extra="true">
+			<path>../../_inc/bg.png</path>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<zIndex>0</zIndex>
+		</image>
+		<rating name="md_rating">
+			<filledPath>../../_inc/heart_full.png</filledPath>
+			<unfilledPath>../../_inc/heart_empty.png</unfilledPath>
+			<zIndex>2</zIndex>
+			<pos>0.015 0.72</pos>
+		</rating>
+		<datetime name="md_releasedate">
+			<pos>0.268 0.71</pos>
+			<fontPath>../../_inc/fonts/Early GameBoy.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<color>306230</color>
+		</datetime>
+		<text name="md_developer">
+			<pos>0.092 0.76</pos>
+			<fontPath>../../_inc/fonts/Early GameBoy.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<color>306230</color>
+			<alignment>right</alignment>
+			<size>0.4 0.05</size>
+		</text>
+	</view>
+</theme>
