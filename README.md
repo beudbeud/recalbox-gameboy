@@ -46,7 +46,8 @@ v0.0.1
 
 ## Preview
 
+<img src="https://i.ibb.co/VmTgf32/01-28-2024-1706396653.jpg" width="320" height="240">
+<img src="https://i.ibb.co/Gd35qb4/01-28-2024-1706397424.jpg" width="320" height="240">
 <img src="https://i.ibb.co/6FPKnZd/01-28-2024-1706396867.jpg" width="320" height="240">
-<img src="https://i.ibb.co/w0JXfXY/01-28-2024-1706396899.jpg" width="320" height="240">
-<img src="https://i.ibb.co/FgJWbGg/01-28-2024-1706396761.jpg" width="320" height="240">
-<img src="https://i.ibb.co/m849fS6/01-28-2024-1706396653.jpg" width="320" height="240">
+<img src="https://i.ibb.co/FxsMFMn/01-28-2024-1706396899.jpg" width="320" height="240">
+<img src="https://i.ibb.co/RzPSpLz/01-28-2024-1706396761.jpg" width="320" height="240">
