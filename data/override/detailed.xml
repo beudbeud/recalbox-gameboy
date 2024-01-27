@@ -26,7 +26,7 @@
 			<pos>0.015 0.72</pos>
 		</rating>
 		<datetime name="md_releasedate">
-			<pos>0.268 0.71</pos>
+			<pos>0.305 0.71</pos>
 			<fontPath>../../_inc/fonts/Early GameBoy.ttf</fontPath>
 			<fontSize>7</fontSize>
 			<color>306230</color>
