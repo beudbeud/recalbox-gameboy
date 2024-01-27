@@ -3,8 +3,8 @@
 
 	<view name="detailed, basic">
 		<textlist name="gamelist">
-			<pos>0.25 0.3</pos>
-			<size>0.5 0.51</size>
+			<pos>0.25 0.225</pos>
+			<size>0.5 0.66</size>
 		</textlist>
 		<image name="md_image" disabled="true"/>
 		<box name="background" extra="true" pos="0 0" size="1 1" color="9bbc0f" zIndex="0"/>
