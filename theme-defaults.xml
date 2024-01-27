@@ -58,9 +58,17 @@
 			<size>1 1</size>
 			<zIndex>10</zIndex>
 		</image>
-		<image name="logo">
+		<image name="logo" disabled="true">
 			<path>./_inc/logo/$system.png</path>
 		</image>
+
+		<text name="systemInfo" extra="true">
+			<fontSize>7</fontSize>
+			<fontPath>./_inc/fonts/Early GameBoy.ttf</fontPath>
+			<size>0.565 0.02</size>
+			<pos>0.2175 0.75</pos>
+			<color>306230</color>
+		</text>
 	</view>
 
 	<view name="menu, system, basic, detailed">
@@ -82,8 +90,8 @@
 		<image name="logo">
 			<path>./_inc/logo/$system.png</path>
 			<origin>0 0</origin>
-			<pos>0.35 0.05</pos>
-			<size>0.30 0.11</size>
+			<pos>0.3 0.05</pos>
+			<maxSize>0.4 0.3</maxSize>
 		</image>
 		<box name="background" extra="true" pos="0 0" size="1 1" color="9bbc0f"/>
 		<textlist name="gamelist">
