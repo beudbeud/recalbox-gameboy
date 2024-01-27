@@ -3,8 +3,8 @@
 
 	<view name="detailed, basic">
 		<textlist name="gamelist">
-			<pos>0.515 0.229</pos>
-			<size>0.47 0.62</size>
+			<pos>0.515 0.225</pos>
+			<size>0.47 0.66</size>
 		</textlist>
 
 		<image name="md_image">
