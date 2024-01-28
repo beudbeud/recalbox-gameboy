@@ -40,27 +40,27 @@
 	<feature supported="carousel">
 		<view name="system">
 			<carousel name="systemcarousel">
-				<defaultTransition>instant</defaultTransition>
-				<pos>1 1</pos>
-				<size>0.491 0.526</size>
-				<color>00000000</color>
+				<defaultTransition>slide</defaultTransition>
+				<pos>0 0</pos>
+				<color>9bbc0f</color>
 				<maxLogoCount>1</maxLogoCount>
 				<logoAlignment>center</logoAlignment>
-				<logoScale>1.1</logoScale>
-				<zIndex>0</zIndex>
+				<logoScale>1.4</logoScale>
+				<zIndex>11</zIndex>
 			</carousel>
 		</view>
 	</feature>
 
 	<view name="system">
 		<image name="console" extra="true">
+			<path>./_inc/img/_default.png</path>
 			<path>./_inc/img/$system.png</path>
 			<pos>0 0</pos>
 			<size>1 1</size>
 			<zIndex>10</zIndex>
 		</image>
-		<image name="logo" disabled="true">
-			<path>./_inc/logo/$system.png</path>
+		<image name="logo">
+			<path>./_inc/logo/$system.svg</path>
 		</image>
 
 		<text name="systemInfo" extra="true">
@@ -89,10 +89,9 @@
 	</view>
 	<view name="detailed, basic">
 		<image name="logo">
-			<path>./_inc/logo/$system.png</path>
-			<origin>0 0</origin>
-			<pos>0.3 0.03</pos>
-			<maxSize>0.4 0.3</maxSize>
+			<path>./_inc/logo/$system.svg</path>
+			<pos>0.35 0.02</pos>
+			<maxSize>0.234375 0.0555555555555556</maxSize>
 		</image>
 		<textlist name="gamelist">
 			<selectorColor>3062304D</selectorColor>

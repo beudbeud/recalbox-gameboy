@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="41.665852"
+   height="8.0000277"
+   viewBox="0 0 41.665852 8.0000277"
+   sodipodi:docname="auto-strategymoba.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="8.0654367"
+     inkscape:cx="37.629705"
+     inkscape:cy="-1.4878302"
+     inkscape:window-width="1264"
+     inkscape:window-height="1389"
+     inkscape:window-x="3204"
+     inkscape:window-y="8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1"
+     transform="translate(1.6752896,0.14317922)">
+    <path
+       id="rect3-1"
+       style="fill:#306230;stroke:#fdfdfd;stroke-width:0.00412042"
+       d="M -0.41892936,-0.1411058 A 1.2542338,1.084169 0 0 0 -1.6732294,0.94306419 v 2.91782001 3.99389 h 6.7416997 a 1.2542338,1.084169 0 0 0 1.2543,-1.08416 v -2.91783 -3.99389 z m 5.97689966,0.19694 a 0.55644777,0.55644784 0 0 1 0.5564,0.55644 0.55644777,0.55644784 0 0 1 -0.5564,0.55645 0.55644777,0.55644784 0 0 1 -0.5565,-0.55645 0.55644777,0.55644784 0 0 1 0.5565,-0.55644 z m -5.05589966,1.14502 H 4.2370706 l -4.56829996,4.5682 v -1.90953 -1.93842 a 0.83323369,0.72025331 0 0 1 0.8333,-0.72025 z m 4.47869966,0.73469 v 1.91861 1.93841 a 0.83323369,0.72025331 0 0 1 -0.8332997,0.72025 H 0.40347064 Z m -5.31199966,4.55649 0.021,0.0208 h -0.021 z m -0.5777,0.0415 a 0.55644777,0.55644784 0 0 1 0.5565,0.55644 0.55644777,0.55644784 0 0 1 -0.5565,0.55645 0.55644777,0.55644784 0 0 1 -0.55640004,-0.55645 0.55644777,0.55644784 0 0 1 0.55640004,-0.55644 z" />
+    <text
+       xml:space="preserve"
+       style="font-weight:800;font-size:11.6576px;font-family:Changa;-inkscape-font-specification:'Changa, Ultra-Bold';fill:#306230;stroke:#fdfdfd;stroke-width:0.364299"
+       x="8.3863773"
+       y="7.4998345"
+       id="text5"
+       transform="skewX(-11.072553)"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="8.3863773"
+         y="7.4998345"
+         style="stroke-width:0.364299">MOBA</tspan></text>
+  </g>
+</svg>

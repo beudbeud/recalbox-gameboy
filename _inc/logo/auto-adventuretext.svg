@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="99.629684mm"
+   height="12mm"
+   viewBox="0 0 99.629684 12"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="auto-adventuretext.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.09664"
+     inkscape:cx="518.8576"
+     inkscape:cy="347.8808"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(32.042517,1.6292243)">
+    <path
+       d="m -25.514516,10.370776 h -3.84 V 1.5387758 h -2.688001 v -3.1680001 h 9.216001 v 3.1680001 h -2.688 z m 10.521596,0 -1.7856,-2.8607999 -1.6896,2.8607999 h -4.1664 l 3.6864,-6.3168001 -3.552,-5.6832002 h 4.2624 l 1.6512,2.6496001 1.5552,-2.6496001 h 4.1664 l -3.552,6.1056002 3.6864,5.8944001 z m 10.9823826,0 H -7.8505375 V 1.5387758 h -2.6879985 v -3.1680001 h 9.2159987 v 3.1680001 h -2.6880001 z"
+       id="text1"
+       style="font-weight:800;font-size:19.2px;font-family:Changa;-inkscape-font-specification:'Changa, Ultra-Bold';fill:#306230;stroke-width:0.352777"
+       aria-label="TXT" />
+    <path
+       d="m 5.8371477,6.575 h -2.2625 l -0.3125,1.2375 H 0.76214772 L 2.7621477,0 h 3.8875 l 2,7.8125 h -2.5 z m -0.475,-1.8125 -0.6,-2.3625 h -0.1125 l -0.6,2.3625 z M 12.824657,0 q 1.475,0 2.2625,0.35 0.7875,0.3375 1.1125,1.175 0.325,0.825 0.325,2.3875 0,1.5625 -0.325,2.3875 -0.325,0.825 -1.1125,1.175 -0.7875,0.3375 -2.2625,0.3375 H 9.3371571 V 0 Z m -0.9875,5.8625 h 1.025 q 0.55,0 0.7625,-0.1625 0.2125,-0.175 0.2125,-0.625 V 2.7375 q 0,-0.45 -0.2125,-0.6125 -0.2125,-0.175 -0.7625,-0.175 h -1.025 z M 19.462166,0 l 1.2625,5.4125 h 0.1125 L 22.099666,0 h 2.5 l -1.875,7.8125 h -3.8875 L 16.962166,0 Z m 8.325002,5.75 h 2.9375 v 2.0625 h -5.4375 V 0 h 5.5 l -0.3125,2.0625 h -2.6875 V 3 h 2.5 v 1.8125 h -2.5 z M 31.849676,0 h 2.475 l 1.7,2.7375 q 0.3125,0.525 0.3125,0.8875 h 0.075 V 0 h 2.5 v 7.8125 h -2.475 l -1.7,-2.7375 q -0.3125,-0.525 -0.3125,-0.8875 h -0.075 v 3.625 h -2.5 z m 12.062489,7.8125 h -2.5 v -5.75 h -1.75 V 0 h 6 v 2.0625 h -1.75 z M 49.674665,8 q -1.4,0 -2.125,-0.2625 -0.725,-0.275 -1.025,-0.925 -0.3,-0.6625 -0.3,-1.925 V 0 h 2.5 v 5.8625 h 1 q 0.5625,0 0.7375,-0.125 Q 50.649665,5.6 50.649665,5.2 V 0 h 2.5 v 4.8875 q 0,1.25 -0.3,1.9125 -0.3,0.6625 -1.0375,0.9375 Q 51.074665,8 49.674665,8 Z M 58.499671,7.8125 57.437171,5.55 h -0.6625 v 2.2625 h -2.5 V 0 h 3.625 q 1.6,0 2.3,0.675 0.7,0.675 0.7,2.2125 0,1.6125 -0.9625,2.225 l 1.275,2.7 z m -1.725,-4.075 h 1.0125 q 0.275,0 0.375,-0.1125 0.1125,-0.1125 0.1125,-0.4125 v -0.625 q 0,-0.3 -0.1125,-0.4125 -0.1,-0.1125 -0.375,-0.1125 h -1.0125 z m 7.8125,2.0125 h 2.9375 v 2.0625 h -5.4375 V 0 h 5.5 l -0.3125,2.0625 h -2.6875 V 3 h 2.5 v 1.8125 h -2.5 z"
+       id="text2"
+       style="font-weight:800;font-size:12.5px;font-family:Changa;-inkscape-font-specification:'Changa, Ultra-Bold';fill:#306230;stroke-width:0.229673"
+       transform="skewX(-10.787656)"
+       aria-label="ADVENTURE" />
+  </g>
+</svg>
