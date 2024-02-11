@@ -11,6 +11,7 @@
 			<origin>0.5 0</origin>
 			<pos>0.2495 0.25</pos>
 			<size>0.43 0.425</size>
+			<color>0f380f</color>
 			<zIndex>2</zIndex>
 		</image>
 		<image name="background" extra="true">
