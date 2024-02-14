@@ -33,7 +33,15 @@
 			<color>306230</color>
 		</datetime>
 		<text name="md_developer">
-			<pos>0.015 0.76</pos>
+			<pos>0.015 0.765</pos>
+			<fontPath>../../_inc/fonts/Early GameBoy.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<color>306230</color>
+			<alignment>left</alignment>
+			<size>0.4 0.05</size>
+		</text>
+		<text name="md_genre">
+			<pos>0.015 0.795</pos>
 			<fontPath>../../_inc/fonts/Early GameBoy.ttf</fontPath>
 			<fontSize>7</fontSize>
 			<color>306230</color>

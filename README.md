@@ -38,6 +38,14 @@ Recalbox >9.2 : OK
 
 ## Updates
 
+v1.1
+
+```
+* Add color on screenshot
+* Add category
+* fix issue
+```
+
 v1.0.0
 
 ```
