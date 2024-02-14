@@ -34,7 +34,7 @@
 		<menuBackground name="menubg">
 			<color>9bbc0f</color>
 		</menuBackground>
-		<helpsystem name="help">
+		<helpsystem name="help" color="306230">
 		</helpsystem>
 	</view>
 	<feature supported="carousel">
@@ -43,7 +43,7 @@
 				<defaultTransition>slide</defaultTransition>
 				<pos>0 0</pos>
 				<color>9bbc0f</color>
-				<maxLogoCount>1</maxLogoCount>
+				<maxLogoCount>2</maxLogoCount>
 				<logoAlignment>center</logoAlignment>
 				<logoScale>1.4</logoScale>
 				<zIndex>11</zIndex>
@@ -70,6 +70,9 @@
 			<pos>0.2175 0.75</pos>
 			<color>306230</color>
 		</text>
+
+		<box name="box_right" extra="true" color="9bbc0f" zIndex="98" size="0.2 0.2" pos="0 0"/>
+		<box name="box_left" extra="true" color="9bbc0f" zIndex="98" size="0.2 0.2" pos="0.8 0"/>
 	</view>
 
 	<view name="menu, system, basic, detailed">

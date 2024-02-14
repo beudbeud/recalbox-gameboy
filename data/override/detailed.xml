@@ -11,7 +11,7 @@
 			<origin>0.5 0</origin>
 			<pos>0.2495 0.25</pos>
 			<size>0.43 0.425</size>
-			<color>0f380f</color>
+			<color>306230</color>
 			<zIndex>2</zIndex>
 		</image>
 		<image name="background" extra="true">
@@ -33,11 +33,11 @@
 			<color>306230</color>
 		</datetime>
 		<text name="md_developer">
-			<pos>0.092 0.76</pos>
+			<pos>0.015 0.76</pos>
 			<fontPath>../../_inc/fonts/Early GameBoy.ttf</fontPath>
 			<fontSize>7</fontSize>
 			<color>306230</color>
-			<alignment>right</alignment>
+			<alignment>left</alignment>
 			<size>0.4 0.05</size>
 		</text>
 	</view>

@@ -1,4 +1,4 @@
-<theme name="GameBoy" recalbox="9.2" version="1.0.0" resolutions="vga">
+<theme name="GameBoy" recalbox="9.2" version="1.0" resolutions="vga">
 	<formatVersion>4</formatVersion>
 	<include>./theme-defaults.xml</include>
 	<include>./data/config.xml</include>
